@@ -17,3 +17,8 @@ Building `sp-extension{.js}`:
 ```bash
 yarn run build
 ```
+## Install as a dependency
+
+```bash
+npm i @setheum.js/sp-extension
+```

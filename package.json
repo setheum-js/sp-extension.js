@@ -1,0 +1,26 @@
+{
+    "name": "@setheum.js/sp-extension",
+    "version": "1.0.0",
+    "description": "Settpay extension for Polkadot.js API",
+    "main": "index.js",
+    "scripts": {
+        "clean": "rm -rf dist/*",
+        "build": "webpack -p --mode production",
+        "build-dev": "webpack -d --mode development",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/setheum-js/sp-extension.js.git"
+    },
+    "keywords": [
+        "SettPay",
+        "Setheum"
+    ],
+    "author": "Setheum.JS <setheumjs@gmail.com>",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/setheum-js/sp-extension.js/issues"
+    },
+    "homepage": "https://github.com/setheum-js/sp-extension.js#readme"
+}

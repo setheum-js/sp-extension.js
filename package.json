@@ -18,6 +18,10 @@
         "Setheum"
     ],
     "author": "Setheum.JS <setheumjs@gmail.com>",
+    "maintainers": [
+        "Muhammad-Jibril <jbashir52@gmail.com>"
+        "Huang-Lei-Wan <setheumjs@gmail.com>"
+    ],
     "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/setheum-js/sp-extension.js/issues"

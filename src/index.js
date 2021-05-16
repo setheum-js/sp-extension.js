@@ -6,7 +6,7 @@ import handlers from "./handlers";
 
 // send message to JSChannel: assembly
 function send(path, data) {
-  if (window.location.href.match("js_as_extension")) {
+  if (window.location.href.match("sp_extension")) {
     console.log(path, data);
   } else {
     Extension.postMessage(JSON.stringify({ path, data }));

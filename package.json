@@ -1,6 +1,6 @@
 {
     "name": "@setheum.js/sp-extension",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "Settpay extension for Polkadot.js API",
     "main": "index.js",
     "scripts": {
@@ -17,7 +17,7 @@
         "SettPay",
         "Setheum"
     ],
-    "author": "Setheum.JS <setheumjs@gmail.com>",
+    "author": "Muhammad-Jibril <jbashir52@gmail.com>",
     "maintainers": [
         "Muhammad-Jibril <jbashir52@gmail.com>",
         "Huang-Lei-Wan <setheumjs@gmail.com>"
